@@ -3,3 +3,4 @@
 1. pip install vk_api gspread
 2. подключаем google sheets api в настройках аккаунта, вся нужная информация будет сохранена в json-файле
 3. включаем long poll api в группе вк
+4. создаем config.py с ключами группы вк и google sheets (щитс)
